@@ -5,9 +5,9 @@ I initallty had a hard time stlying the tables, and getting them to match up wit
 
 Changes made:
 
-GitHub: https://github.com/Acanthodoris/Password-Generator
+GitHub: https://github.com/Acanthodoris/symmetrical-palm-tree
 
-GitHub Page: https://acanthodoris.github.io/Password-Generator/
+GitHub Page: https://acanthodoris.github.io/symmetrical-palm-tree/
 
 Screenshot:
 ![Screenshot](screenshot.png)
